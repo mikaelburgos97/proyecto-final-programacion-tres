@@ -1,0 +1,9 @@
+.todo-list {
+    margin-top: 20px;
+  }
+  
+  .empty-list {
+    text-align: center;
+    color: #888;
+    font-style: italic;
+  }
